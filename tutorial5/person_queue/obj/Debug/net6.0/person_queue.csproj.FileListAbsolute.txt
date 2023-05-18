@@ -1,0 +1,15 @@
+/home/piccora/workspace/csharp/tutorial5/person_queue/bin/Debug/net6.0/person_queue
+/home/piccora/workspace/csharp/tutorial5/person_queue/bin/Debug/net6.0/person_queue.deps.json
+/home/piccora/workspace/csharp/tutorial5/person_queue/bin/Debug/net6.0/person_queue.runtimeconfig.json
+/home/piccora/workspace/csharp/tutorial5/person_queue/bin/Debug/net6.0/person_queue.dll
+/home/piccora/workspace/csharp/tutorial5/person_queue/bin/Debug/net6.0/ref/person_queue.dll
+/home/piccora/workspace/csharp/tutorial5/person_queue/bin/Debug/net6.0/person_queue.pdb
+/home/piccora/workspace/csharp/tutorial5/person_queue/obj/Debug/net6.0/person_queue.csproj.AssemblyReference.cache
+/home/piccora/workspace/csharp/tutorial5/person_queue/obj/Debug/net6.0/person_queue.GeneratedMSBuildEditorConfig.editorconfig
+/home/piccora/workspace/csharp/tutorial5/person_queue/obj/Debug/net6.0/person_queue.AssemblyInfoInputs.cache
+/home/piccora/workspace/csharp/tutorial5/person_queue/obj/Debug/net6.0/person_queue.AssemblyInfo.cs
+/home/piccora/workspace/csharp/tutorial5/person_queue/obj/Debug/net6.0/person_queue.csproj.CoreCompileInputs.cache
+/home/piccora/workspace/csharp/tutorial5/person_queue/obj/Debug/net6.0/person_queue.dll
+/home/piccora/workspace/csharp/tutorial5/person_queue/obj/Debug/net6.0/ref/person_queue.dll
+/home/piccora/workspace/csharp/tutorial5/person_queue/obj/Debug/net6.0/person_queue.pdb
+/home/piccora/workspace/csharp/tutorial5/person_queue/obj/Debug/net6.0/person_queue.genruntimeconfig.cache

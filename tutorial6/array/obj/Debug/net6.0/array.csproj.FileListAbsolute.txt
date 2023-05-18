@@ -1,0 +1,15 @@
+/home/piccora/workspace/csharp/tutorial6/array/bin/Debug/net6.0/array
+/home/piccora/workspace/csharp/tutorial6/array/bin/Debug/net6.0/array.deps.json
+/home/piccora/workspace/csharp/tutorial6/array/bin/Debug/net6.0/array.runtimeconfig.json
+/home/piccora/workspace/csharp/tutorial6/array/bin/Debug/net6.0/array.dll
+/home/piccora/workspace/csharp/tutorial6/array/bin/Debug/net6.0/ref/array.dll
+/home/piccora/workspace/csharp/tutorial6/array/bin/Debug/net6.0/array.pdb
+/home/piccora/workspace/csharp/tutorial6/array/obj/Debug/net6.0/array.csproj.AssemblyReference.cache
+/home/piccora/workspace/csharp/tutorial6/array/obj/Debug/net6.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/piccora/workspace/csharp/tutorial6/array/obj/Debug/net6.0/array.AssemblyInfoInputs.cache
+/home/piccora/workspace/csharp/tutorial6/array/obj/Debug/net6.0/array.AssemblyInfo.cs
+/home/piccora/workspace/csharp/tutorial6/array/obj/Debug/net6.0/array.csproj.CoreCompileInputs.cache
+/home/piccora/workspace/csharp/tutorial6/array/obj/Debug/net6.0/array.dll
+/home/piccora/workspace/csharp/tutorial6/array/obj/Debug/net6.0/ref/array.dll
+/home/piccora/workspace/csharp/tutorial6/array/obj/Debug/net6.0/array.pdb
+/home/piccora/workspace/csharp/tutorial6/array/obj/Debug/net6.0/array.genruntimeconfig.cache

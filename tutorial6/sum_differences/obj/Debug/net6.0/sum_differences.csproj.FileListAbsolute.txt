@@ -1,0 +1,15 @@
+/home/piccora/workspace/csharp/tutorial6/sum_differences/bin/Debug/net6.0/sum_differences
+/home/piccora/workspace/csharp/tutorial6/sum_differences/bin/Debug/net6.0/sum_differences.deps.json
+/home/piccora/workspace/csharp/tutorial6/sum_differences/bin/Debug/net6.0/sum_differences.runtimeconfig.json
+/home/piccora/workspace/csharp/tutorial6/sum_differences/bin/Debug/net6.0/sum_differences.dll
+/home/piccora/workspace/csharp/tutorial6/sum_differences/bin/Debug/net6.0/ref/sum_differences.dll
+/home/piccora/workspace/csharp/tutorial6/sum_differences/bin/Debug/net6.0/sum_differences.pdb
+/home/piccora/workspace/csharp/tutorial6/sum_differences/obj/Debug/net6.0/sum_differences.csproj.AssemblyReference.cache
+/home/piccora/workspace/csharp/tutorial6/sum_differences/obj/Debug/net6.0/sum_differences.GeneratedMSBuildEditorConfig.editorconfig
+/home/piccora/workspace/csharp/tutorial6/sum_differences/obj/Debug/net6.0/sum_differences.AssemblyInfoInputs.cache
+/home/piccora/workspace/csharp/tutorial6/sum_differences/obj/Debug/net6.0/sum_differences.AssemblyInfo.cs
+/home/piccora/workspace/csharp/tutorial6/sum_differences/obj/Debug/net6.0/sum_differences.csproj.CoreCompileInputs.cache
+/home/piccora/workspace/csharp/tutorial6/sum_differences/obj/Debug/net6.0/sum_differences.dll
+/home/piccora/workspace/csharp/tutorial6/sum_differences/obj/Debug/net6.0/ref/sum_differences.dll
+/home/piccora/workspace/csharp/tutorial6/sum_differences/obj/Debug/net6.0/sum_differences.pdb
+/home/piccora/workspace/csharp/tutorial6/sum_differences/obj/Debug/net6.0/sum_differences.genruntimeconfig.cache

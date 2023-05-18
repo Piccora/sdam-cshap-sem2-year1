@@ -1,0 +1,15 @@
+/home/piccora/workspace/csharp/tutorial2/book_shop/bin/Debug/net6.0/book_shop
+/home/piccora/workspace/csharp/tutorial2/book_shop/bin/Debug/net6.0/book_shop.deps.json
+/home/piccora/workspace/csharp/tutorial2/book_shop/bin/Debug/net6.0/book_shop.runtimeconfig.json
+/home/piccora/workspace/csharp/tutorial2/book_shop/bin/Debug/net6.0/book_shop.dll
+/home/piccora/workspace/csharp/tutorial2/book_shop/bin/Debug/net6.0/ref/book_shop.dll
+/home/piccora/workspace/csharp/tutorial2/book_shop/bin/Debug/net6.0/book_shop.pdb
+/home/piccora/workspace/csharp/tutorial2/book_shop/obj/Debug/net6.0/book_shop.csproj.AssemblyReference.cache
+/home/piccora/workspace/csharp/tutorial2/book_shop/obj/Debug/net6.0/book_shop.GeneratedMSBuildEditorConfig.editorconfig
+/home/piccora/workspace/csharp/tutorial2/book_shop/obj/Debug/net6.0/book_shop.AssemblyInfoInputs.cache
+/home/piccora/workspace/csharp/tutorial2/book_shop/obj/Debug/net6.0/book_shop.AssemblyInfo.cs
+/home/piccora/workspace/csharp/tutorial2/book_shop/obj/Debug/net6.0/book_shop.csproj.CoreCompileInputs.cache
+/home/piccora/workspace/csharp/tutorial2/book_shop/obj/Debug/net6.0/book_shop.dll
+/home/piccora/workspace/csharp/tutorial2/book_shop/obj/Debug/net6.0/ref/book_shop.dll
+/home/piccora/workspace/csharp/tutorial2/book_shop/obj/Debug/net6.0/book_shop.pdb
+/home/piccora/workspace/csharp/tutorial2/book_shop/obj/Debug/net6.0/book_shop.genruntimeconfig.cache

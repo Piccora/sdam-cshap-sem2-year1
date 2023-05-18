@@ -1,0 +1,15 @@
+/home/piccora/workspace/csharp/tutorial6/abstract_account/obj/Debug/net6.0/abstract_account.csproj.AssemblyReference.cache
+/home/piccora/workspace/csharp/tutorial6/abstract_account/obj/Debug/net6.0/abstract_account.GeneratedMSBuildEditorConfig.editorconfig
+/home/piccora/workspace/csharp/tutorial6/abstract_account/obj/Debug/net6.0/abstract_account.AssemblyInfoInputs.cache
+/home/piccora/workspace/csharp/tutorial6/abstract_account/obj/Debug/net6.0/abstract_account.AssemblyInfo.cs
+/home/piccora/workspace/csharp/tutorial6/abstract_account/obj/Debug/net6.0/abstract_account.csproj.CoreCompileInputs.cache
+/home/piccora/workspace/csharp/tutorial6/abstract_account/bin/Debug/net6.0/abstract_account
+/home/piccora/workspace/csharp/tutorial6/abstract_account/bin/Debug/net6.0/abstract_account.deps.json
+/home/piccora/workspace/csharp/tutorial6/abstract_account/bin/Debug/net6.0/abstract_account.runtimeconfig.json
+/home/piccora/workspace/csharp/tutorial6/abstract_account/bin/Debug/net6.0/abstract_account.dll
+/home/piccora/workspace/csharp/tutorial6/abstract_account/bin/Debug/net6.0/ref/abstract_account.dll
+/home/piccora/workspace/csharp/tutorial6/abstract_account/bin/Debug/net6.0/abstract_account.pdb
+/home/piccora/workspace/csharp/tutorial6/abstract_account/obj/Debug/net6.0/abstract_account.dll
+/home/piccora/workspace/csharp/tutorial6/abstract_account/obj/Debug/net6.0/ref/abstract_account.dll
+/home/piccora/workspace/csharp/tutorial6/abstract_account/obj/Debug/net6.0/abstract_account.pdb
+/home/piccora/workspace/csharp/tutorial6/abstract_account/obj/Debug/net6.0/abstract_account.genruntimeconfig.cache

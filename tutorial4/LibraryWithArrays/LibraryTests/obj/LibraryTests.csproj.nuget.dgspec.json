@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryTests/LibraryTests.csproj": {}
+  },
+  "projects": {
+    "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryTests/LibraryTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryTests/LibraryTests.csproj",
+        "projectName": "LibraryTests",
+        "projectPath": "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryTests/LibraryTests.csproj",
+        "packagesPath": "/home/piccora/.nuget/packages/",
+        "outputPath": "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/piccora/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/LibraryWithArrays.csproj": {
+                "projectPath": "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/LibraryWithArrays.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/LibraryWithArrays.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/LibraryWithArrays.csproj",
+        "projectName": "LibraryWithArrays",
+        "projectPath": "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/LibraryWithArrays.csproj",
+        "packagesPath": "/home/piccora/.nuget/packages/",
+        "outputPath": "/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/piccora/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

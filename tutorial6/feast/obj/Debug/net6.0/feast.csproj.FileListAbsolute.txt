@@ -1,0 +1,15 @@
+/home/piccora/workspace/csharp/tutorial6/feast/bin/Debug/net6.0/feast
+/home/piccora/workspace/csharp/tutorial6/feast/bin/Debug/net6.0/feast.deps.json
+/home/piccora/workspace/csharp/tutorial6/feast/bin/Debug/net6.0/feast.runtimeconfig.json
+/home/piccora/workspace/csharp/tutorial6/feast/bin/Debug/net6.0/feast.dll
+/home/piccora/workspace/csharp/tutorial6/feast/bin/Debug/net6.0/ref/feast.dll
+/home/piccora/workspace/csharp/tutorial6/feast/bin/Debug/net6.0/feast.pdb
+/home/piccora/workspace/csharp/tutorial6/feast/obj/Debug/net6.0/feast.csproj.AssemblyReference.cache
+/home/piccora/workspace/csharp/tutorial6/feast/obj/Debug/net6.0/feast.GeneratedMSBuildEditorConfig.editorconfig
+/home/piccora/workspace/csharp/tutorial6/feast/obj/Debug/net6.0/feast.AssemblyInfoInputs.cache
+/home/piccora/workspace/csharp/tutorial6/feast/obj/Debug/net6.0/feast.AssemblyInfo.cs
+/home/piccora/workspace/csharp/tutorial6/feast/obj/Debug/net6.0/feast.csproj.CoreCompileInputs.cache
+/home/piccora/workspace/csharp/tutorial6/feast/obj/Debug/net6.0/feast.dll
+/home/piccora/workspace/csharp/tutorial6/feast/obj/Debug/net6.0/ref/feast.dll
+/home/piccora/workspace/csharp/tutorial6/feast/obj/Debug/net6.0/feast.pdb
+/home/piccora/workspace/csharp/tutorial6/feast/obj/Debug/net6.0/feast.genruntimeconfig.cache

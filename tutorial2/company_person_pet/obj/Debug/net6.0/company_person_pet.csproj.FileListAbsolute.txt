@@ -1,0 +1,15 @@
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/bin/Debug/net6.0/company_person_pet
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/bin/Debug/net6.0/company_person_pet.deps.json
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/bin/Debug/net6.0/company_person_pet.runtimeconfig.json
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/bin/Debug/net6.0/company_person_pet.dll
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/bin/Debug/net6.0/ref/company_person_pet.dll
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/bin/Debug/net6.0/company_person_pet.pdb
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/obj/Debug/net6.0/company_person_pet.csproj.AssemblyReference.cache
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/obj/Debug/net6.0/company_person_pet.GeneratedMSBuildEditorConfig.editorconfig
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/obj/Debug/net6.0/company_person_pet.AssemblyInfoInputs.cache
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/obj/Debug/net6.0/company_person_pet.AssemblyInfo.cs
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/obj/Debug/net6.0/company_person_pet.csproj.CoreCompileInputs.cache
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/obj/Debug/net6.0/company_person_pet.dll
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/obj/Debug/net6.0/ref/company_person_pet.dll
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/obj/Debug/net6.0/company_person_pet.pdb
+/home/piccora/workspace/csharp/tutorial2/company_person_pet/obj/Debug/net6.0/company_person_pet.genruntimeconfig.cache

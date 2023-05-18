@@ -1,0 +1,15 @@
+/home/piccora/workspace/csharp/tutorial6/square/bin/Debug/net6.0/square
+/home/piccora/workspace/csharp/tutorial6/square/bin/Debug/net6.0/square.deps.json
+/home/piccora/workspace/csharp/tutorial6/square/bin/Debug/net6.0/square.runtimeconfig.json
+/home/piccora/workspace/csharp/tutorial6/square/bin/Debug/net6.0/square.dll
+/home/piccora/workspace/csharp/tutorial6/square/bin/Debug/net6.0/ref/square.dll
+/home/piccora/workspace/csharp/tutorial6/square/bin/Debug/net6.0/square.pdb
+/home/piccora/workspace/csharp/tutorial6/square/obj/Debug/net6.0/square.csproj.AssemblyReference.cache
+/home/piccora/workspace/csharp/tutorial6/square/obj/Debug/net6.0/square.GeneratedMSBuildEditorConfig.editorconfig
+/home/piccora/workspace/csharp/tutorial6/square/obj/Debug/net6.0/square.AssemblyInfoInputs.cache
+/home/piccora/workspace/csharp/tutorial6/square/obj/Debug/net6.0/square.AssemblyInfo.cs
+/home/piccora/workspace/csharp/tutorial6/square/obj/Debug/net6.0/square.csproj.CoreCompileInputs.cache
+/home/piccora/workspace/csharp/tutorial6/square/obj/Debug/net6.0/square.dll
+/home/piccora/workspace/csharp/tutorial6/square/obj/Debug/net6.0/ref/square.dll
+/home/piccora/workspace/csharp/tutorial6/square/obj/Debug/net6.0/square.pdb
+/home/piccora/workspace/csharp/tutorial6/square/obj/Debug/net6.0/square.genruntimeconfig.cache

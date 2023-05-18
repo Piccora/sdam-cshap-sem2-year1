@@ -1,0 +1,13 @@
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/bin/Debug/netcoreapp2.1/LibraryWithArrays.deps.json
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/bin/Debug/netcoreapp2.1/LibraryWithArrays.runtimeconfig.json
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/bin/Debug/netcoreapp2.1/LibraryWithArrays.runtimeconfig.dev.json
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/bin/Debug/netcoreapp2.1/LibraryWithArrays.dll
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/bin/Debug/netcoreapp2.1/LibraryWithArrays.pdb
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/obj/Debug/netcoreapp2.1/LibraryWithArrays.csproj.AssemblyReference.cache
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/obj/Debug/netcoreapp2.1/LibraryWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/obj/Debug/netcoreapp2.1/LibraryWithArrays.AssemblyInfoInputs.cache
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/obj/Debug/netcoreapp2.1/LibraryWithArrays.AssemblyInfo.cs
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/obj/Debug/netcoreapp2.1/LibraryWithArrays.csproj.CoreCompileInputs.cache
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/obj/Debug/netcoreapp2.1/LibraryWithArrays.dll
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/obj/Debug/netcoreapp2.1/LibraryWithArrays.pdb
+/home/piccora/workspace/csharp/tutorial4/LibraryWithArrays/LibraryWithArrays/obj/Debug/netcoreapp2.1/LibraryWithArrays.genruntimeconfig.cache

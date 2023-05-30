@@ -1,2 +1,5 @@
 # Ignore final assignment
 final_assignment
+
+# ignore test directory
+test
